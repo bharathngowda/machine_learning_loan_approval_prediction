@@ -55,8 +55,6 @@ I split the train set into test and train fit the final model on the train data 
 | Precision	    |0.780952  |
 | Recall	    |0.976190  |
 | Accuracy	    |0.796748  |
-| ROC	        |0.693223  |
-| Cohens Kappa	|0.451578  |
 
 Confusion Matrix and ROC Curve
 
